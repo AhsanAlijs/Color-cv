@@ -181,3 +181,27 @@ h2{
     color: #3a8683;
     padding-left: 20px;
 }
+
+
+
+/* styles for all devices */
+
+/* styles for devices with screen width up to 768 pixels */
+@media (max-width: 768px) {
+  /* styles for devices with screen width up to 768 pixels */
+}
+
+/* styles for devices with screen width between 768 and 1024 pixels */
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* styles for devices with screen width between 768 and 1024 pixels */
+}
+
+/* styles for devices with screen width between 1024 and 1440 pixels */
+@media (min-width: 1024px) and (max-width: 1440px) {
+  /* styles for devices with screen width between 1024 and 1440 pixels */
+}
+
+/* styles for devices with screen width above 1440 pixels */
+@media (min-width: 1440px) {
+  /* styles for devices with screen width above 1440 pixels */
+}
