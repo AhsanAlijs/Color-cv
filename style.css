@@ -205,3 +205,8 @@ h2{
 @media (min-width: 1440px) {
   /* styles for devices with screen width above 1440 pixels */
 }
+/* styles for Moto E4 mobile device */
+@media only screen and (max-device-width: 1280px) and (max-device-height: 720px) and (-webkit-device-pixel-ratio: 2) {
+  /* styles for Moto E4 mobile device */
+}
+
